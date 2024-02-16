@@ -1,3 +1,4 @@
+import anime from 'animejs';
 // import sfImgUrl from './media.sf.jpg'
 
 // const img = document.createElement("img");
